@@ -1,6 +1,6 @@
 <?php
 
-	$data = "12 de agosto de 2024"
+	$data = "12 de agosto de 2024";
 	$salario = 850.00;
 	$idade = 18;
 	$cargo = 'estagiario';
